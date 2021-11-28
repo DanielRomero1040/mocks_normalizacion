@@ -1,0 +1,23 @@
+[
+  {
+    "entities": {
+      "author": {
+        "daniel": {
+          "id": "daniel",
+          "nombre": "daniel",
+          "apellido": "hola",
+          "edad": "hola",
+          "alias": "hola",
+          "avatar": "hola"
+        }
+      },
+      "chat": {
+        "undefined": {
+          "author": "daniel",
+          "text": "hola"
+        }
+      }
+    },
+    "id": "1"
+  }
+]
